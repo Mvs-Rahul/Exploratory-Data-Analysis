@@ -94,23 +94,21 @@ date. There should be four PNG files and four R code files.
 The four plots that you will need to construct are shown below. 
 
 
-### Plot 1
+![ExDataCP1Plot1](https://user-images.githubusercontent.com/112823898/198574566-9740fc03-0dbd-45c2-8eec-bb833b321c01.png)
 
 
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
 
 
-### Plot 2
-
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
+![Second](https://user-images.githubusercontent.com/112823898/198574806-bf003a10-b1ad-47c7-b320-4e41c53e3dfd.png)
 
 
-### Plot 3
-
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
 
 
-### Plot 4
+![Third](https://user-images.githubusercontent.com/112823898/198574878-c9be5ee9-6a16-4a8f-84f1-8e22f70ca484.png)
 
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+
+
+
+![Fourth](https://user-images.githubusercontent.com/112823898/198574943-2ffc946d-7757-44cd-96f6-63c752ff3913.png)
+
 
